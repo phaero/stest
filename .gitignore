@@ -1,4 +1,4 @@
 .lock-wscript
 build
-.lock-wafbuild
+.lock-waf*
 .waf-*
